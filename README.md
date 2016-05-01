@@ -1,1 +1,3 @@
-This will soon become the bug tracker of the Wurst Client.
+# Wurst Bug Tracker
+
+https://www.wurst-client.tk/bugs/
