@@ -6,6 +6,9 @@ Do not suggest features or ask questions here! This repository is for bug report
 1. **Do not duplicate existing bug reports!**  
 Before reporting a bug, always search through the existing bug reports to make sure that your bug has not been reported already!
 
+1. **Keep your bug reports separated!**  
+If you have multiple bugs that you want to report, make a separate bug report for each one of them! Do not sqeeze them all together into one bug report!
+
 1. **Be specific about the bug!**  
 Always include necessary details such as the steps to reproduce the bug! Just saying "Wurst doesn't work" doesn't help anyone.
 
